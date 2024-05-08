@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FHomepageUpdated/static/css/main.ecf18914.css",
+    "main.js": "/FHomepageUpdated/static/js/main.a9fbbfb6.js",
+    "index.html": "/FHomepageUpdated/index.html",
+    "main.ecf18914.css.map": "/FHomepageUpdated/static/css/main.ecf18914.css.map",
+    "main.a9fbbfb6.js.map": "/FHomepageUpdated/static/js/main.a9fbbfb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf18914.css",
+    "static/js/main.a9fbbfb6.js"
+  ]
+}
